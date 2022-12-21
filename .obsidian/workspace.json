@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b2bdfc0f6f54e989",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7c187668a214ade",
+  "active": "2514957c206e069e",
   "lastOpenFiles": [
     "Eidolon.md"
   ]
